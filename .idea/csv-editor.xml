@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CsvFileAttributes">
+    <option name="attributeMap">
+      <map>
+        <entry key="C:\Users\alexb\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\regex-1.11.1\record\compile-test\2023-04-19_1.7.3.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\alexb\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\regex-1.11.1\record\compile-test\2023-04-20_master.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\alexb\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\regex-1.11.1\record\compile-test\2023-07-05.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
